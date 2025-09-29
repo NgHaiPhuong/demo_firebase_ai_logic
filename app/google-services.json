@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "101207079107",
+    "project_id": "moneymanagement-4bb4b",
+    "storage_bucket": "moneymanagement-4bb4b.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:101207079107:android:f0737e4e022458339e4a76",
+        "android_client_info": {
+          "package_name": "com.example.demo_chatbot"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALwlQJTUtrHCYoT8FlSzjmHORowvEAzfM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
