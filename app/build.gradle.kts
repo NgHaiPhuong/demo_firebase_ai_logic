@@ -43,10 +43,6 @@ dependencies {
     implementation("org.jetbrains.kotlinx:kotlinx-coroutines-android:1.7.3")
     implementation("androidx.lifecycle:lifecycle-runtime-ktx:2.6.1")
 
-    implementation (libs.retrofit)
-    implementation (libs.converter.gson)
-    implementation (libs.logging.interceptor)
-
     implementation(libs.androidx.core.ktx)
     implementation(libs.androidx.appcompat)
     implementation(libs.material)
